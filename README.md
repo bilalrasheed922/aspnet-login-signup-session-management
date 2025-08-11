@@ -1,9 +1,15 @@
-# aspnet-login-signup-session-management
+# My Project Title
+
+Short description of the project.
+
+## Features
+- Login & Signup functionality
+- Session management
+- Secure authentication
 
 ## Screenshots
 
-### Login Page
-![Login Page](assets/images/login.png)
-
-### Signup Page
-![Signup Page](assets/images/signup.png)
+<p align="center">
+  <img src="assets/images/login.png" width="400" />
+  <img src="assets/images/signup.png" width="400" />
+</p>
