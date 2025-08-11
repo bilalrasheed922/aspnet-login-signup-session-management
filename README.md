@@ -10,6 +10,6 @@ Short description of the project.
 ## Screenshots
 
 <p align="center">
-  <img src="assets/images/login.png" width="400" />
-  <img src="assets/images/signup.png" width="400" />
+  <img src="assets/images/Login.png" width="400" />
+  <img src="assets/images/Signup.png" width="400" />
 </p>
